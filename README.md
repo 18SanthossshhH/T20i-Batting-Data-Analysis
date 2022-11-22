@@ -12,8 +12,13 @@ In this exploratory data analysis project we will insights from T20I Batting dat
 1 - Most Matches Played by a Player
 
 2 - Most Hundreds Scored by the Players in T20Is
+
 3 - Most Runs in T20i History
-4- Best Batting Index 
+
+4- Best Batting Index
+
 5 - Which Player have the Most 50+ Scores?
+
 6 - Who scored the Most Boundaries and Sixers?
+
 7 - Inferences and Conclusion:
